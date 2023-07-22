@@ -23,11 +23,11 @@
 
 ## Experience and UI
 
-![Theme-Light](./images/Both_Theme.png)
-![Theme-Dark](./images/Start.png)
-![Choose-Diificulity](./images/Dif.png)
-![Single-Play](./images/Single.png)
-![Create-Room](./images/CreateRoom.png)
-![Join-Room](./images/Join.png)
-![Ready-Multiplayer-Room](./images/MultiplayerStart.png)
-![Live-Dynamic ScoreBoard](./images/DynamicScore.png)
+![Theme-Light](https://github.com/UtkarshSaxenautk/CodeTally-TypingGame/assets/82103333/f7d0297b-f487-4407-8711-6391f2d3935f)
+![Theme-Dark](https://github.com/UtkarshSaxenautk/CodeTally-TypingGame/assets/82103333/6cd657df-440a-4017-a3ce-68823d0ca8da)
+![Choose-Diificulity](https://github.com/UtkarshSaxenautk/CodeTally-TypingGame/assets/82103333/35c1faae-bbb7-4191-b364-adc15859b5f4)
+![Single-Play](https://github.com/UtkarshSaxenautk/CodeTally-TypingGame/assets/82103333/fe7cd4b9-0646-446d-a9ea-ba2d068ca503)
+![Create-Room](https://github.com/UtkarshSaxenautk/CodeTally-TypingGame/assets/82103333/d8b1a573-0da2-4a1b-a409-639bb4ee1bda)
+![Join-Room](https://github.com/UtkarshSaxenautk/CodeTally-TypingGame/assets/82103333/0e54b970-3577-45e3-bff2-2d35bcd3db4f)
+![Ready-Multiplayer-Room](https://github.com/UtkarshSaxenautk/CodeTally-TypingGame/assets/82103333/0cc18cf8-9e25-49ad-ae07-d67553c1f15e)
+![Live-Dynamic ScoreBoard](https://github.com/UtkarshSaxenautk/CodeTally-TypingGame/assets/82103333/4490cdbc-dbc7-4db8-bc23-67a76611a984)
