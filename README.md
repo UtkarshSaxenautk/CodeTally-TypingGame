@@ -1,5 +1,5 @@
 # CodeTally-TypingGame
-#Run:
+# Run:
 
 1. Open client folder using cd client
 2. npm install or npmm install --force
