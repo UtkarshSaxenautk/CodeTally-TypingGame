@@ -1,6 +1,6 @@
 # CodeTally Typing Game
 
-![CodeTally Typing Game](https://github.com/UtkarshSaxenautk/CodeTally-TypingGame/blob/5fc117b4610288bb9eec4396767ca5a0bbb37384/images/Start.png)
+![CodeTally Typing Game](./images/Start.png)
 
 **Typing Game** is a multiplayer and single player with very easy user experience.
 
