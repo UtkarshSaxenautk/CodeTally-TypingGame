@@ -23,11 +23,11 @@
 
 ## Experience and UI
 
-![Theme-Light](images/Both_Theme.png)
-![Theme-Dark](images/Start.png)
-![Choose-Diificulity](images/Dif.png)
-![Single-Play](images/Single.png)
-![Create-Room](images/CreateRoom.png)
-![Join-Room](images/Join.png)
-![Ready-Multiplayer-Room](images/MultiplayerStart.png)
-![Live-Dynamic ScoreBoard](images/DynamicScore.png)
+![Theme-Light](./images/Both_Theme.png)
+![Theme-Dark](./images/Start.png)
+![Choose-Diificulity](./images/Dif.png)
+![Single-Play](./images/Single.png)
+![Create-Room](./images/CreateRoom.png)
+![Join-Room](./images/Join.png)
+![Ready-Multiplayer-Room](./images/MultiplayerStart.png)
+![Live-Dynamic ScoreBoard](./images/DynamicScore.png)
